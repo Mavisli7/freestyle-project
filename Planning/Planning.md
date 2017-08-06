@@ -11,6 +11,6 @@
 
 A Figure shows stock trend line for analysis of historical data on selected stocks
 
-## Example result:
+## Output Example:
 
 ![screen shot 2017-08-06 at 12 26 56 am](https://user-images.githubusercontent.com/23409811/29000636-2a94576a-7a3f-11e7-8a43-2f43adff61c3.png)
