@@ -9,7 +9,7 @@
 
 ## Output:
 
-A Figure shows stock trend line for analysis of historical data on selected stocks
+A Figure shows stock trend line for analysis of historical data on selected tickers
 
 ## Output Example:
 
