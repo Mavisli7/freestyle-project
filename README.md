@@ -1,4 +1,4 @@
-## Stock Trend Figure Appliation
+## Stock Price Trend Line Appliation
 
 Welcome to Mavis's freestyle project
 
