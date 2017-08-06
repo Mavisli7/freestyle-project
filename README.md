@@ -2,7 +2,7 @@
 
 Welcome to Mavis's freestyle project
 
-### This application will generate a picture，which can be used to :
+### This application will generate a picture that can be used to :
 *  Show stock trend line drawn map for analysis of historical data on stock 
 *  Facilitate the comparison analysis among several stocks based on the users' requests
 
