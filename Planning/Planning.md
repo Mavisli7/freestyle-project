@@ -5,6 +5,7 @@ Project Scope:
 User Input:
 * Stock symbol name (e.g. AAPL, SNAP, FB)
 * Stock data source (e.g. Yahoo finance, Google finance)
+* URL of the selected stock 
 
 Output:
 
