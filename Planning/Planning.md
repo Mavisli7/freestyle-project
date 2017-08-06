@@ -7,6 +7,7 @@ User Input:
 * Stock data source (e.g. Yahoo finance, Google finance)
 
 Output:
+
 A Figure shows stock trend line for analysis of historical data on selected stocks
 
 Example result:
