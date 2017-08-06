@@ -7,5 +7,6 @@ This application will generate a picture，which can be used to :
 *  Facilitate the comparison analysis among several stocks based the users' requests
 
 To run this app, simply download this repository and run the stocks_compare_pic.py in the app directory.
+For further information, please read the planning.md in the planning directory
 
 Note: Please make sure to run this program in Python3!
