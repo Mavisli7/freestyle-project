@@ -1,0 +1,4 @@
+BeautifulSoup
+Pandas
+Numpy
+Matplotlib
