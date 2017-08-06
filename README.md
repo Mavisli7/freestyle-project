@@ -10,4 +10,5 @@ To run this app, simply download this repository and run the stocks_pic.py in th
 For further information, please read the planning.md in the planning directory
 
 Note: Please make sure to install certain packages and run this program in Python3!
+
 (For the information of packages, please see the requirements.txt)
