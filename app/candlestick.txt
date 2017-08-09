@@ -1,0 +1,1 @@
+For the function of generating a candlestick map of stock prices, please see the file called candlestick_.py
