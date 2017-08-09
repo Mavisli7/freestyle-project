@@ -10,6 +10,7 @@
 ## Output:
 
 A Figure shows stock trend line for analysis of historical data on selected tickers
+(For candlestick map function, please see the file called candlestick_.py)
 
 ## Output Example:
 
